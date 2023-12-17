@@ -7,14 +7,14 @@ This repository contains code for predicting customer churn using an Artificial 
 2. [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-3. [Methodology](Methodology)
-    - [Data Collection](Data-Collection)
-    - [Exploratory-Data-Analysis-(EDA)](Exploratory-Data-Analysis-(EDA))
-    - [Data-Preprocessing](Data-Preprocessing)
-    - [Splitting-Data](Splitting-Data)
-    - [Model-Building](Model-Building)
-    - [Model-Training](Model-Training)
-    - [Model-Evaluation](Model-Evaluation)
+3. [Methodology](#methodology)
+    - [Data Collection](#data-collection)
+    - [Exploratory-Data-Analysis-(EDA)](#exploratory-data-analysis)
+    - [Data-Preprocessing](#data-preprocessing)
+    - [Splitting-Data](#splitting-data)
+    - [Model-Building](#model-building)
+    - [Model-Training](#model-training)
+    - [Model-Evaluation](#model-evaluation)
 4. [Results](#results)
 
 ## Introduction
@@ -37,7 +37,7 @@ Customer churn prediction using an ANN. The code includes data preprocessing, mo
 ## Data-Collection:
 Gather the data required for your project. Here the specified dataset contains information about customers, including features like credit score, geography, gender, age, tenure, balance, and more.
 
-## Exploratory-Data-Analysis-(EDA):
+## Exploratory-Data-Analysis:
 Explore and analyze the dataset to understand its characteristics. This involves:
 + Checking for missing values
 + Handling duplicates
